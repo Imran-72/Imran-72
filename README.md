@@ -1,3 +1,5 @@
+<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/12ae222e6d239d7ae43df26b1a8f08d02eeb204a4cb9828b8a60103ba621a3a3/68747470733a2f2f7777772e636f6465776172732e636f6d2f75736572732f4d722d536f666f732f6261646765732f6c61726765"><img src="https://camo.githubusercontent.com/12ae222e6d239d7ae43df26b1a8f08d02eeb204a4cb9828b8a60103ba621a3a3/68747470733a2f2f7777772e636f6465776172732e636f6d2f75736572732f4d722d536f666f732f6261646765732f6c61726765" alt="img" data-canonical-src="https://www.codewars.com/users/Mr-Sofos/badges/large" style="max-width: 100%;"></a></p>
+
 ### Hi there 👋
 <h3>I am Imran.</h3>
 
