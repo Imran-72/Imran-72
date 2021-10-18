@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>I am Imran.</h1>
+<h3>I am Imran.</h3>
 
 <!--
 **Imran-72/Imran-72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
