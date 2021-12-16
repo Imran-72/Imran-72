@@ -32,7 +32,7 @@
 <ul>
 <li>fast-company <a href="https://github.com/Imran-72/fast-company">код</a> | <a href="http://u117756.test-handyhost.ru/">demo</a></li>
 <li>Поиск книг (google-books/api) <a href="https://github.com/Imran-72/google-books">код</a> | <a href="http://u117496.test-handyhost.ru/">demo</a></li>
-<li>Подкаст вопросы (приложение на чистом JS) <a href="https://github.com/Imran-72/personal-area-tz">код</a> | <a href="https://podcast-app-651ca.web.app/">demo</a></li>
+<li>Подкаст вопросы (приложение на чистом JS) <a href="https://github.com/Imran-72/podcast-app-js">код</a> | <a href="https://podcast-app-651ca.web.app/">demo</a></li>
 <li>Личный кабинет (создание контактов) <a href="https://github.com/Imran-72/personal-area-tz">код</a></li>
 <li>avito-tz <a href="https://github.com/Imran-72/avito">код</a> | <a href="http://u117625.test-handyhost.ru/">demo</a></li>
 </ul>
